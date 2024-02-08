@@ -1,0 +1,22 @@
+Ascending Sort:
+Sorted Result: 1, 2, 3, 4, 5
+Time Taken: 0.0 seconds
+Descending Sort:
+Sorted Result: 5, 4, 3, 2, 1
+Time Taken: 0.0 seconds
+Negative Test for is_valid_input:
+Input: 1, 2, 3, a, 5
+Result: Invalid
+
+Sort Sequence Test:
+Input Sequence: 1, 3, 2, 5, 4
+Sorting Order: ascending
+Sorted Result: 1, 2, 3, 4, 5
+Time Taken: 0.0 seconds
+Negative Test for validate_input:
+Input: 1, 2, 3, a, 5
+Result: Invalid
+
+Positive Test for validate_input:
+Input: 1, 2, 3, 4, 5
+Result: Valid
